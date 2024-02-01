@@ -12,6 +12,8 @@ Members <br>
 - Red Godana <br>
 - Ronoquade Lawrence <br>
 - Sean Nolan <br>
+
 Advisors <br>
+
 - Dr. Anca Doloc Mihu <br>
 - Dr. Cindy Robertson <br>
