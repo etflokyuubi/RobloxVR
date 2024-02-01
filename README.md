@@ -17,3 +17,8 @@ Advisors <br>
 
 - Dr. Anca Doloc Mihu <br>
 - Dr. Cindy Robertson <br>
+
+## Publications
+1. Red Godana, Ronoquade Lawrence, Sean Nolan, Anca Doloc-Mihu, Cindy Robertson. Using Roblox and VR to Inspire Game Development Skills and STEM Interest, Consortium for Computing. Sciences in Colleges: Southeastern Region (CCSC:SE), November 4-5, 2023, Conway, SC
+2. Red Godana, Ronoquade Lawrence, Sean Nolan, Anca Doloc-Mihu, Cindy Robertson. Using Roblox and VR to Inspire Game Development Skills and STEM Interest, CREATE Symposium, Nov 30, 2023, Georgia Gwinnett College.
+
