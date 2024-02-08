@@ -1,8 +1,8 @@
 # Using Roblox and Virtual Reality to Teach Basic Game Development
 ## Description
-- Difficulty Level: Middle School + <br>
-- Target Audience: <br>
-- Duration of workshop: Approximate 1 Hour <br>
+- Difficulty Level: Beginner <br>
+- Target Audience: Middle School and Up <br>
+- Duration of workshop: Approximately 1 Hour <br>
 - Needed Materials: VR Headset, Computer with Internet Connection, Roblox Studio. <br>
 <p> Using Virtual Reality and Roblox Studios, the aim of this project is to garner an increased interest in the video game development field and STEM by attenuating the stigma of difficulty surrounding both programming and video game development as a whole. </p>
 
@@ -28,4 +28,8 @@ Advisors <br>
 4. Consortium for Computing Sciences in Colleges (CCSC), Nov 3rd-4th, 2023, CCU: Poster presentation of project research results.
 
 ## Technology
-<p>This project uses a Virtual Reality headset and a computer with Roblex Studio installed on it.</p>
+<p>This project uses a Virtual Reality headset and a computer with Roblex Studio installed on it. <br>
+<b>Roblox Studio</b> <br> 
+- Roblox Studio is a program that is used to create games and virtual worlds on the Roblox platform. </p>
+
+## Project Setup & Installations
